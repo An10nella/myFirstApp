@@ -1,2 +1,2 @@
 # myFirstApp
-This an App for metro passengers counter
+This an App for metro passengers counter.
